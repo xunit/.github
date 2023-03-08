@@ -1,0 +1,17 @@
+name: Contributor License Agreement Policy
+description: .NET Foundation CLA policy file
+
+resource: repository
+configuration: 
+   cla:
+      content: https://raw.githubusercontent.com/dotnet-foundation/.github/main/CLA/dotnetfoundation.yml
+      minimalChangeRequired: 
+         files: 1
+         codeLines: 8
+      bypassUsers:
+         - dependabot[bot]
+         - dependabot-preview[bot]
+         - github-actions[bot]
+         - microsoft-github-policy-service[bot]
+         - azure-pipelines[bot]
+      autoSignMsftEmployee: true
