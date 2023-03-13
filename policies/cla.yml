@@ -2,11 +2,10 @@ name: Contributor License Agreement Policy
 description: .NET Foundation CLA policy file
 
 resource: repository
-configuration: 
+configuration:
    cla:
       content: https://raw.githubusercontent.com/dotnet-foundation/.github/main/CLA/dotnetfoundation.yml
-      minimalChangeRequired: 
-         files: 1
+      minimalChangeRequired:
          codeLines: 8
       bypassUsers:
          - dependabot[bot]
