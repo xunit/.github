@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xunit/media/main/dotnet-foundation.svg" style="float: right; height: 4em" /><img src="https://raw.githubusercontent.com/xunit/media/refs/heads/main/full-logo.svg" style="height: 4em" />
+<img src="https://raw.githubusercontent.com/xunit/media/refs/heads/main/full-logo.svg" style="height: 4em" />
 
 xUnit.net is a free, open source, community-focused unit testing tool for C#, F#, and Visual Basic. xUnit.net v3 supports .NET 8.0 or later, and .NET Framework 4.7.2 or later.
 
