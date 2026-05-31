@@ -1,1 +1,1 @@
-This organization abides by the .NET Foundation [Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). All contributors to projects in this organization are expected to follow this code of conduct. For questions related to the enforcement of the code of conduct, please contact [Brad Wilson](mailto:dotnetguy@gmail.com).
+The code of conduct is available online at [https://xunit.net/code-of-conduct](https://xunit.net/code-of-conduct).
